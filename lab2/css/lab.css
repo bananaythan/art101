@@ -7,3 +7,21 @@
     border: solid 1px #888;
     background-color: #DDD8C4;
   }
+  h1 {
+    color: pink;
+    font-size: 150%
+  }
+  p {
+    text-indent: 15px;
+    margin-left: 15px;
+  }
+  
+  #content {
+    background-color:aliceblue
+    width: 600px;
+    min-height: 300px;
+    padding: 20px;
+    margin: 20px;
+    border: solid 2px #cccccc
+    font-size: 20px;
+  }
