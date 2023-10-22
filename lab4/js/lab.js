@@ -1,8 +1,22 @@
-// index.js - purpose and description here
-// Author: Your Name
-// Date:
+// index.js - Dinosaur Game pseudocode
+// Author: Nathan Kim
+// Date: October 2023
 
-// Constants
+//Pseudocoding the Dinosaur Game
+    //Generate a Desert Landscape
+        //Include Cacti in varying groups of 1 to 4
+        //Include Birds
+    //Create Dinosaur Character
+        //Include Animation for Running, Jumping, Ducking, and Death
+    //Implement Controls
+        //Space Button Starts Game and used for Jumping
+        //Down Arrow for Ducking
+    //Create Variables
+        //Impliment randomizer for Cacti and Bird obstacles
+        //Score begins at 0 and increases by distance Dinosaur goes
+
+
+        // Constants
 
 // Functions
 
