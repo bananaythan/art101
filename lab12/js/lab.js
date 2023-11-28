@@ -1,6 +1,6 @@
 // index.js - js file for lab 12
 // Author: Nathan Kim
-// Date: 13 November 2023
+// Date: 23 November 2023
 
 function sortingHat(inputString){
   var length = inputString.length;
